@@ -1,0 +1,15 @@
+/Users/Rachel/Desktop/Projects/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/Users/Rachel/Desktop/Projects/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/Users/Rachel/Desktop/Projects/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/Users/Rachel/Desktop/Projects/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/Users/Rachel/Desktop/Projects/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/Users/Rachel/Desktop/Projects/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
